@@ -1,6 +1,7 @@
 # SeeClickFix Terms of Use
 
-## ACCEPTANCE OF TERMS
+
+## 1. ACCEPTANCE OF TERMS
 
 SeeClickFix Inc. ("SeeClickFix") welcomes you. SeeClickFix provides its
 service to you subject to the following Terms of Service ("TOS"), which
@@ -9,7 +10,8 @@ review the most current version of the TOS at any time at on our website
 at http://www.seeclickfix.com. This version was updated on August 27th,
 2013.
 
-## DESCRIPTION OF SERVICE
+
+## 2. DESCRIPTION OF SERVICE
 
 SeeClickFix provides users with access to public issue reporting,
 discussing and management which may be accessed through various media or
@@ -32,7 +34,8 @@ those fees, including those fees associated with the display or delivery
 of advertisements. In addition, you must provide and are responsible for
 all equipment necessary to access the Service.
 
-## YOUR REGISTRATION OBLIGATIONS
+
+## 3. YOUR REGISTRATION OBLIGATIONS
 
 In consideration of your use of the Service, you represent that you are
 of legal age to form a binding contract and are not a person barred from
@@ -53,7 +56,8 @@ wish to allow their children access to the Service must take
 responsibility to determine whether any of the Service areas and/or
 Content (as defined in Section 6 below) are appropriate for your child.
 
-## SEECLICKFIX PRIVACY POLICY
+
+## 4. SEECLICKFIX PRIVACY POLICY
 
 Registration Data and certain other information about you is subject to
 our Privacy Policy. We will not share or sell your email with another
@@ -74,7 +78,8 @@ should consider the email address you use to be one which you are using
 to communicate directly with the local government or authority about the
 issue.
 
-## MEMBER ACCOUNT, PASSWORD AND SECURITY
+
+## 5. MEMBER ACCOUNT, PASSWORD AND SECURITY
 
 You may receive a password and account designation upon completing the
 Service's registration process. You are responsible for maintaining the
@@ -86,7 +91,8 @@ you exit from your account at the end of each session. SeeClickFix
 cannot and will not be liable for any loss or damage arising from your
 failure to comply with this Section 5.
 
-## USER CONDUCT
+
+## 6. USER CONDUCT
 
 You understand that all information, data, text, software, photographs,
 graphics, messages, tags, or other materials ("Content"), whether
@@ -106,43 +112,56 @@ Service.
 
 You agree to not use the Service to:
 
-upload, post, email, transmit or otherwise make available any Content
+
+1. upload, post, email, transmit or otherwise make available any Content
 that is unlawful, harmful, threatening, abusive, harassing, tortious,
 defamatory, vulgar, obscene, libelous, invasive of another's privacy,
 hateful, or racially, ethnically or otherwise objectionable;
-harm minors in any way;
-impersonate any person or entity, including, but not limited to, a
+
+2. harm minors in any way;
+
+3. impersonate any person or entity, including, but not limited to, a
 SeeClickFix official, guide or host, or falsely state or otherwise
 misrepresent your affiliation with a person or entity;
-forge headers or otherwise manipulate identifiers in order to disguise
+
+4. forge headers or otherwise manipulate identifiers in order to disguise
 the origin of any Content transmitted through the Service;
-upload, post, email, transmit or otherwise make available any Content
+
+5. upload, post, email, transmit or otherwise make available any Content
 that you do not have a right to make available under any law or under
 contractual or fiduciary relationships (such as inside information,
 proprietary and confidential information learned or disclosed as part of
 employment relationships or under nondisclosure agreements);
-upload, post, email, transmit or otherwise make available any Content
+
+6. upload, post, email, transmit or otherwise make available any Content
 that infringes any patent, trademark, trade secret, copyright or other
 proprietary rights ("Rights") of any party;
-upload, post, email, transmit or otherwise make available any
+
+7. upload, post, email, transmit or otherwise make available any
 unsolicited or unauthorized advertising, promotional materials, "junk
 mail," "spam," "chain letters," "pyramid schemes," or any other form of
 solicitation, except in those areas that are designated for such
 purpose;
-upload, post, email, transmit or otherwise make available any material
+
+8. upload, post, email, transmit or otherwise make available any material
 that contains software viruses or any other computer code, files or
 programs designed to interrupt, destroy or limit the functionality of
 any computer software or hardware or telecommunications equipment;
-interfere with or disrupt the Service or servers or networks connected
+
+9. interfere with or disrupt the Service or servers or networks connected
 to the Service, or disobey any requirements, procedures, policies or
 regulations of networks connected to the Service;
-intentionally or unintentionally violate any applicable local, state,
+
+10. intentionally or unintentionally violate any applicable local, state,
 national or international law, and any regulations having the force of
 law;
-"stalk" or otherwise harass another; and/or
-collect or store personal data about other users in connection with the
+
+11. "stalk" or otherwise harass another; and/or
+
+12. collect or store personal data about other users in connection with the
 prohibited conduct and activities set forth in paragraphs a through m
 above.
+
 You acknowledge that SeeClickFix may or may not pre-screen Content, but
 that SeeClickFix and its designees shall have the right (but not the
 obligation) in their sole discretion to pre-screen, refuse, or remove
@@ -179,7 +198,8 @@ rules embedded into the Service. Any unauthorized reproduction,
 publication, further distribution or public exhibition of the materials
 provided on the Service, in whole or in part, is strictly prohibited.
 
-## INTERNATIONAL USE
+
+## 7. INTERNATIONAL USE
 
 Recognizing the global nature of the Internet, you agree to comply with
 all local rules regarding online conduct and acceptable Content.
@@ -187,7 +207,8 @@ Specifically, you agree to comply with all applicable laws regarding the
 transmission of technical data exported from the United States or the
 country in which you reside.
 
-## CONTENT SUBMITTED OR MADE AVAILABLE FOR INCLUSION ON THE SERVICE
+
+## 8. CONTENT SUBMITTED OR MADE AVAILABLE FOR INCLUSION ON THE SERVICE
 
 SeeClickFix does not claim ownership of Content you submit or make
 available for inclusion on the Service. However, with respect to Content
@@ -195,19 +216,24 @@ you submit or make available for inclusion on publicly accessible areas
 of the Service, you grant SeeClickFix the following worldwide,
 royalty-free and non-exclusive license(s), as applicable:
 
-With respect to photos, graphics, or audio you submit or make available
+
+1. With respect to photos, graphics, or audio you submit or make available
 for inclusion on publicly accessible areas of the Service, the license
 to use, distribute, reproduce, modify, adapt, publicly perform and
 publicly display such Content on the Service solely for the purpose for
 which such Content was submitted or made available.
-With respect to Content other than photos, graphics, or audio you submit
+
+2. With respect to Content other than photos, graphics, or audio you submit
 or make available for inclusion on publicly accessible areas of the
 Service other than SeeClickFix Groups, the perpetual, irrevocable and
 fully sublicensable license to use, distribute, reproduce, modify,
 adapt, publish, translate, publicly perform and publicly display such
 Content (in whole or in part) and to incorporate such Content into other
 works in any format or medium now known or later developed.
-CONTRIBUTIONS TO SEECLICKFIX
+
+
+## 9. CONTRIBUTIONS TO SEECLICKFIX
+
 By submitting ideas, suggestions, documents, and/or proposals
 ("Contributions") to SeeClickFix through its suggestion or feedback
 webpages or emails, you acknowledge and agree that: (a) your
@@ -222,7 +248,8 @@ automatically become the property of SeeClickFix without any obligation
 of SeeClickFix to you; and (f) you are not entitled to any compensation
 or reimbursement of any kind from SeeClickFix under any circumstances.
 
-## INDEMNITY
+
+## 10. INDEMNITY
 
 You agree to indemnify and hold SeeClickFix and its subsidiaries,
 affiliates, officers, agents, employees, partners and licensors harmless
@@ -232,14 +259,16 @@ transmit or otherwise make available through the Service, your use of
 the Service, your connection to the Service, your violation of the TOS,
 or your violation of any rights of another.
 
-## NO RESALE OF SERVICE
+
+## 11. NO RESALE OF SERVICE
 
 You agree not to reproduce, duplicate, copy, sell, trade, resell or
 exploit for any commercial purposes, any portion of the Service
 (including your SeeClickFix login), use of the Service, or access to the
 Service.
 
-## GENERAL PRACTICES REGARDING USE AND STORAGE
+
+## 12. GENERAL PRACTICES REGARDING USE AND STORAGE
 
 You acknowledge that SeeClickFix may establish general practices and
 limits concerning use of the Service, including without limitation the
@@ -254,7 +283,8 @@ are inactive for an extended period of time. You further acknowledge
 that SeeClickFix reserves the right to modify these general practices
 and limits from time to time.
 
-## MODIFICATIONS TO SERVICE
+
+## 13. MODIFICATIONS TO SERVICE
 
 SeeClickFix reserves the right at any time and from time to time to
 modify or discontinue, temporarily or permanently, the Service (or any
@@ -262,7 +292,8 @@ part thereof) with or without notice. You agree that SeeClickFix shall
 not be liable to you or to any third party for any modification,
 suspension or discontinuance of the Service.
 
-## TERMINATION
+
+## 14. TERMINATION
 
 You agree that SeeClickFix may, under certain circumstances and without
 prior notice, immediately terminate your SeeClickFix account, and access
@@ -284,7 +315,8 @@ sole discretion and that SeeClickFix shall not be liable to you or any
 third party for any termination of your account, any associated email
 address, or access to the Service.
 
-## DEALINGS WITH ADVERTISERS
+
+## 15. DEALINGS WITH ADVERTISERS
 
 Your correspondence or business dealings with, or participation in
 promotions of, advertisers found on or through the Service, including
@@ -295,7 +327,8 @@ shall not be responsible or liable for any loss or damage of any sort
 incurred as the result of any such dealings or as the result of the
 presence of such advertisers on the Service.
 
-## LINKS
+
+## 16. LINKS
 
 The Service may provide, or third parties may provide, links to other
 World Wide Web sites or resources. Because SeeClickFix has no control
@@ -309,7 +342,8 @@ indirectly, for any damage or loss caused or alleged to be caused by or
 in connection with use of or reliance on any such Content, goods or
 services available on or through any such site or resource.
 
-## SEECLICKFIX'S PROPRIETARY RIGHTS
+
+## 17. SEECLICKFIX'S PROPRIETARY RIGHTS
 
 You acknowledge and agree that the Service and any necessary software
 used in connection with the Service ("Software") contain proprietary and
@@ -336,17 +370,20 @@ Service. You agree not to access the Service by any means other than
 through the interface that is provided by SeeClickFix for use in
 accessing the Service.
 
-## DISCLAIMER OF WARRANTIES
+
+## 18. DISCLAIMER OF WARRANTIES
 
 YOU EXPRESSLY UNDERSTAND AND AGREE THAT:
 
-YOUR USE OF THE SERVICE IS AT YOUR SOLE RISK. THE SERVICE IS PROVIDED ON
+
+1. YOUR USE OF THE SERVICE IS AT YOUR SOLE RISK. THE SERVICE IS PROVIDED ON
 AN "AS IS" AND "AS AVAILABLE" BASIS. SEECLICKFIX AND ITS SUBSIDIARIES,
 AFFILIATES, OFFICERS, EMPLOYEES, AGENTS, PARTNERS AND LICENSORS
 EXPRESSLY DISCLAIM ALL WARRANTIES OF ANY KIND, WHETHER EXPRESS OR
 IMPLIED, INCLUDING, BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF
 MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT.
-SEECLICKFIX AND ITS SUBSIDIARIES, AFFILIATES, OFFICERS, EMPLOYEES,
+
+2. SEECLICKFIX AND ITS SUBSIDIARIES, AFFILIATES, OFFICERS, EMPLOYEES,
 AGENTS, PARTNERS AND LICENSORS MAKE NO WARRANTY THAT (i) THE SERVICE
 WILL MEET YOUR REQUIREMENTS; (ii) THE SERVICE WILL BE UNINTERRUPTED,
 TIMELY, SECURE OR ERROR-FREE; (iii) THE RESULTS THAT MAY BE OBTAINED
@@ -354,14 +391,19 @@ FROM THE USE OF THE SERVICE WILL BE ACCURATE OR RELIABLE; (iv) THE
 QUALITY OF ANY PRODUCTS, SERVICES, INFORMATION OR OTHER MATERIAL
 PURCHASED OR OBTAINED BY YOU THROUGH THE SERVICE WILL MEET YOUR
 EXPECTATIONS; AND (v) ANY ERRORS IN THE SOFTWARE WILL BE CORRECTED.
-ANY MATERIAL DOWNLOADED OR OTHERWISE OBTAINED THROUGH THE USE OF THE
+
+3. ANY MATERIAL DOWNLOADED OR OTHERWISE OBTAINED THROUGH THE USE OF THE
 SERVICE IS ACCESSED AT YOUR OWN DISCRETION AND RISK, AND YOU WILL BE
 SOLELY RESPONSIBLE FOR ANY DAMAGE TO YOUR COMPUTER SYSTEM OR LOSS OF
 DATA THAT RESULTS FROM THE DOWNLOAD OF ANY SUCH MATERIAL.
-NO ADVICE OR INFORMATION, WHETHER ORAL OR WRITTEN, OBTAINED BY YOU FROM
+
+4. NO ADVICE OR INFORMATION, WHETHER ORAL OR WRITTEN, OBTAINED BY YOU FROM
 SEECLICKFIX OR THROUGH OR FROM THE SERVICE SHALL CREATE ANY WARRANTY NOT
 EXPRESSLY STATED IN THE TOS.
-LIMITATION OF LIABILITY
+
+
+## 19. LIMITATION OF LIABILITY
+
 YOU EXPRESSLY UNDERSTAND AND AGREE THAT SEECLICKFIX AND ITS
 SUBSIDIARIES, AFFILIATES, OFFICERS, EMPLOYEES, AGENTS, PARTNERS AND
 LICENSORS SHALL NOT BE LIABLE TO YOU FOR ANY DIRECT, INDIRECT,
@@ -377,26 +419,30 @@ OR ALTERATION OF YOUR TRANSMISSIONS OR DATA; (iv) STATEMENTS OR CONDUCT
 OF ANY THIRD PARTY ON THE SERVICE; OR (v) ANY OTHER MATTER RELATING TO
 THE SERVICE.
 
-## EXCLUSIONS AND LIMITATIONS
+
+## 20. EXCLUSIONS AND LIMITATIONS
 
 SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF CERTAIN WARRANTIES OR
 THE LIMITATION OR EXCLUSION OF LIABILITY FOR INCIDENTAL OR CONSEQUENTIAL
 DAMAGES. ACCORDINGLY, SOME OF THE ABOVE LIMITATIONS OF SECTIONS 19 AND
 20 MAY NOT APPLY TO YOU.
 
-## NO THIRD-PARTY BENEFICIARIES
+
+## 21. NO THIRD-PARTY BENEFICIARIES
 
 You agree that, except as otherwise expressly provided in this TOS,
 there shall be no third-party beneficiaries to this agreement.
 
-## NOTICE
+
+## 22. NOTICE
 
 SeeClickFix may provide you with notices, including those regarding
 changes to the TOS, including by but not limited to email, regular mail,
 postings on the Service, or other reasonable means now known or
 hereinafter developed.
 
-## TRADEMARK INFORMATION
+
+## 23. TRADEMARK INFORMATION
 
 The SeeClickFix, SeeClickFix logo, trademarks and service marks and
 other SeeClickFix logos and product and service names are trademarks of
@@ -404,7 +450,9 @@ SeeClickFix Inc. (the "SeeClickFix Marks"). Without SeeClickFix's prior
 permission, you agree not to display or use in any manner the
 SeeClickFix Marks.
 
-NOTICE AND PROCEDURE FOR MAKING CLAIMS OF COPYRIGHT OR INTELLECTUAL
+
+## 24. NOTICE AND PROCEDURE FOR MAKING CLAIMS OF COPYRIGHT OR INTELLECTUAL
+
 PROPERTY INFRINGEMENT
 SeeClickFix respects the intellectual property of others, and we ask our
 users to do the same. SeeClickFix may, in appropriate circumstances and
@@ -414,26 +462,35 @@ in a way that constitutes copyright infringement, or your intellectual
 property rights have been otherwise violated, please provide
 SeeClickFix's Copyright Agent the following information:
 
-an electronic or physical signature of the person authorized to act on
+
+1. an electronic or physical signature of the person authorized to act on
 behalf of the owner of the copyright or other intellectual property
 interest;
-a description of the copyrighted work or other intellectual property
+
+2. a description of the copyrighted work or other intellectual property
 that you claim has been infringed;
-a description of where the material that you claim is infringing is
+
+3. a description of where the material that you claim is infringing is
 located on the site;
-your address, telephone number, and email address;
-a statement by you that you have a good faith belief that the disputed
+
+4. your address, telephone number, and email address;
+
+5. a statement by you that you have a good faith belief that the disputed
 use is not authorized by the copyright owner, its agent, or the law;
-a statement by you, made under penalty of perjury, that the above
+
+6. a statement by you, made under penalty of perjury, that the above
 information in your Notice is accurate and that you are the copyright or
 intellectual property owner or authorized to act on the copyright or
 intellectual property owner's behalf.
+
+
 SeeClickFix's Agent for Notice of claims of copyright or other
 intellectual property infringement can be reached as follows:
 
 By email: team@seeclickfix.com or By fax: 877.853.1552
 
-## GENERAL INFORMATION
+
+## 25. GENERAL INFORMATION
 
 Entire Agreement. The TOS constitutes the entire agreement between you
 and SeeClickFix and governs your use of the Service, superseding any
@@ -477,7 +534,8 @@ or contractual effect.
 Additional Data Sources. York Region data provided by the Regional
 Municipality of York, July 2012.
 
-## VIOLATIONS
+
+## 26. VIOLATIONS
 
 Please report any violations of the TOS to customer service at
 team@seeclickfix.com.
