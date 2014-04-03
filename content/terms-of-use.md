@@ -1,3 +1,13 @@
+<div style="padding: 9px 14px; margin-bottom: 14px; background-color: #f7f7f9; border: 1px solid #e1e1e8; border-radius: 4px; font-size: 120%;">
+	The english language version of the Terms of Use is the authoritative version of the terms. The machine translation is provided for the convenience of the user. Any discrepancy between different language versions should be resolved with the english language version being correct.
+	<br>
+	<br>
+	<div style="text-align: center">
+		<div id="google_translate_element"></div>		
+	</div>
+</div>
+
+
 # SeeClickFix Terms of Use
 
 
@@ -539,3 +549,15 @@ Municipality of York, July 2012.
 
 Please report any violations of the TOS to customer service at
 team@seeclickfix.com.
+
+
+
+
+
+<script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'es,fr,it,ms,pl,pt', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
+}
+</script>
+<script async type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
