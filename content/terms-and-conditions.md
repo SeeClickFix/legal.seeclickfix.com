@@ -154,3 +154,11 @@ other Contracts and communications, oral or written, between the parties
 regarding such subject matter.
 Assignment.  SeeClickFix may assign these Terms and Conditions, and then
 notify the City within 30 days thereof.
+
+
+<script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'es,fr,it,ms,pl,pt', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
+}
+</script>
+<script async type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
