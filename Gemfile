@@ -1,16 +1,12 @@
-source "http://rubygems.org"
+source 'https://rubygems.org'
 
-gem 'builder'
-gem 'coderay'
-gem 'kramdown', '~> 0.13.2'
-gem 'mime-types', '~> 1.16'
-gem 'nanoc', '~> 3.4.3'
-gem 'nokogiri', '~> 1.4.4'
-gem 'pygments.rb'
-gem 'rake', '~> 0.9.2'
-gem 'yajl-ruby', '~> 0.8.2'
+gem 'nanoc'
+gem 'yajl-ruby'
+gem 'kramdown'
+gem 'nokogiri'
+
 
 group :development do
   gem 'adsf'
-  gem 'fssm'
+  gem 'rake'
 end
