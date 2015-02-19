@@ -1,3 +1,7 @@
+---
+title: SeeClickFix Terms of Use
+---
+
 <div style="padding: 9px 14px; margin-bottom: 14px; background-color: #f7f7f9; border: 1px solid #e1e1e8; border-radius: 4px; font-size: 120%;">
 	The english language version of the Terms of Use is the authoritative version of the terms. The machine translation is provided for the convenience of the user. Any discrepancy between different language versions should be resolved with the english language version being correct.
 	<br>
