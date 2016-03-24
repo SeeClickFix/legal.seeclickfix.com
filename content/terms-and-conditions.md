@@ -22,9 +22,9 @@ Parties"). WHEREAS, the Customer desires that SeeClickFix provide certain
 software services as described herein. WHEREAS, SeeClickFix desires to
 deliver such software services under these terms and conditions.
 
-A. Term and Termination.
+### A. Term and Termination
 
-SeeClickFix and the Customer will implement the services described in the
+1. SeeClickFix and the Customer will implement the services described in the
 SSP as soon as reasonable.  These Terms and Conditions will apply
 throughout the SSP-specified period following the Effective Date and be
 automatically renewed on an annual basis each succeeding year, and shall
@@ -33,16 +33,20 @@ SeeClickFix alone.
 Should either party decide not to
 extend the term, such party must notify, in writing, the other party at
 least 90 days prior to the end of the current term.
-Termination for Cause.  If either party fails to perform any of its
+
+2. *Termination for Cause.*  If either party fails to perform any of its
 material obligations under these Terms and Conditions and does not cure
 such failures within thirty (30) days after being given written notice
 specifying the nature of the failure, then the non-defaulting party may,
 by giving written notice to the other party, terminate all services as
 of the date specified in such notice of termination.
-Survival.  The following Sections and any payment obligations hereunder
+
+3. *Survival.* The following Sections and any payment obligations hereunder
 shall survive any expiration or termination of service: A(3), C, D, E
-and and F (except F.3). 
-B. Services of SeeClickFix.  SeeClickFix will provide on a hosted,
+and F (except F.3).
+
+### B. Services of SeeClickFix
+SeeClickFix will provide on a hosted,
 software-as-a-service basis, access to the Services described in the
 foregoing Order Form, via mobile applications, internet, and an
 embeddable interactive widget for public reporting, alerts on discussing
@@ -56,7 +60,7 @@ content.  Although SeeClickFix may from time to time make enhancements
 or bug fixes to the Software, it is under no obligation to make any
 particular modifications, enhancements or bug fixes.
 
-C. Ownership. With the exception of Customer's trademarks and logos,
+### C. Ownership. With the exception of Customer's trademarks and logos,
 SeeClickFix shall be the sole and exclusive owner of any and all
 SeeClickFix Materials, including the Software and all Intellectual
 Property Rights in and to them and their derivative works and
@@ -70,8 +74,8 @@ secrets, patents and patent applications, renewals, extensions,
 continuations, divisions or reissues, in whole or in part, now or
 hereafter in force, and any foreign counterparts.
 
-D. Exclusions of Warranties and Limitations of Liability.  SEECLICKFIX
-MAKES NO, AND HEREBY DISCLAIMS ALL, REPRESENTATIONS OR WARRANTIES,
+### D. Exclusions of Warranties and Limitations of Liability.
+SEECLICKFIX MAKES NO, AND HEREBY DISCLAIMS ALL, REPRESENTATIONS OR WARRANTIES,
 EXPRESS OR IMPLIED, AT LAW OR IN EQUITY (INCLUDING, WITHOUT LIMITATION,
 ANY WARRANTY OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE
 OR NONINFRINGEMENT) TO CLIENT, OR TO ANY OTHER PERSON, WITH RESPECT TO
@@ -85,9 +89,9 @@ FEES RECEIVED BY SEECLICKFIX FROM THE CITY FOR THE THREE (3) MONTHS
 IMMEDIATELY PRECEDING THE EVENT GIVING RISE TO SUCH LIABILITY OR $5,000
 WHICHEVER IS LESS.
 
-E. Arbitration, Governing Law and Venue
+### E. Arbitration, Governing Law and Venue
 
-Arbitration.  The Parties agree that except for the right of either
+1. *Arbitration.* The Parties agree that except for the right of either
 party to seek declaratory, injunctive or other equitable relief, or for
 claims related to a party's Intellectual Property Rights, any dispute or
 controversy arising out of or in connection with these Terms and
@@ -106,21 +110,24 @@ Terms and Conditions in the absence of this Section.  Each party
 warrants and represents to the other party that this Section is valid
 and enforceable and the other party will incur damages if such
 representation is false.
-Law. The laws of United States and the State of Connecticut shall govern
+
+2. *Law.* The laws of United States and the State of Connecticut shall govern
 these Terms and Conditions, without regard to conflicts of laws
 principles. Each of the parties hereby submits to the jurisdiction of
 the State of Connecticut and federal courts located in the State of
 Connecticut.
-F. General
 
-Independent Contractor Relationship.  SeeClickFix is acting as an
+### F. General
+
+1. *Independent Contractor Relationship.*  SeeClickFix is acting as an
 independent contractor under these Terms and Conditions and nothing in
 these Terms and Conditions shall be deemed or construed to create the
 relationship of partnership, joint venture or employer-employee between
 the parties. Neither party has, and shall not hold itself out as having,
 any authority to enter into any contract or create any obligation or
 liability on behalf of, in the name of, or binding upon the other party.
-Notices.  Any notice to be given hereunder to any other party, including
+
+2. *Notices.*  Any notice to be given hereunder to any other party, including
 any notice of a change of address, shall be in writing and shall be
 deemed validly given if (i) delivered personally or (ii) sent by express
 delivery service, registered or certified mail, postage prepaid, return
@@ -133,30 +140,38 @@ date of deposit with the express delivery service or the postal
 authorities if sent in either such manner, on the date the facsimile or
 email is sent if sent in such manner, and on the date of actual receipt
 by the addressee if delivered in any other manner.
-Publicity.  The Parties agree that the Parties may reference the other
+
+3. *Publicity.* The Parties agree that the Parties may reference the other
 party as a client or vendor, including using the Client name, service
 marks, licenses, trademarks, logos, sales and marketing materials, and
 website.  Any reference to the SeeClickFix Software or its features will
 be accompanied by a reference that it is provided by SeeClickFix.
-Amendment or Waiver.  No amendment or modification of these Terms and
+
+4. *Amendment or Waiver.*  No amendment or modification of these Terms and
 Conditions by the Customer shall be valid.
-Headings and Captions.  The headings and captions of these Terms and
+
+5. *Headings and Captions.* The headings and captions of these Terms and
 Conditions are included for convenience only and shall not be considered
 in construction of the provisions hereof.
-Severability.  If any provision of these Terms and Conditions shall be
+
+6. *Severability.*  If any provision of these Terms and Conditions shall be
 determined to be invalid or unenforceable, such invalidity or
 unenforceability shall not affect the remainder of these Terms and
 Conditions, which shall be construed as if such invalid or unenforceable
 provision had never been a part of these Terms and Conditions but in a
 manner so as to carry out as nearly as possible the parties’ original
 intent.
-These Terms and Conditions, inclusive of the SSP to which they are
+
+7. *Counterparts.* The Contrct may be executed siimultaneously in several counterparts, each of which shall be deemed an original but which together shall constitute one and the same instrument.
+
+8. *Entire Contract*. These Terms and Conditions, inclusive of the SSP to which they are
 inextricably linked, constitute the entire agreement between the parties
 regarding the subject matter hereof and supersedes any letters of
 intent, memorandums of understanding, confidentiality Contracts, and
 other Contracts and communications, oral or written, between the parties
 regarding such subject matter.
-Assignment.  SeeClickFix may assign these Terms and Conditions, and then
+
+9. *Assignment.*  SeeClickFix may assign these Terms and Conditions, and then
 notify the Customer within 30 days thereof.
 
 
