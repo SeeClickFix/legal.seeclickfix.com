@@ -118,7 +118,7 @@ Unauthorized entry or use, hardware or software failure, and other factors may c
 
 ## California Residents
 
-Under California Civil Code sections 1798.83-1798.84, California residents are entitled to ask us for a notice identifying the categories of personal customer information that we share with our affiliates and/or third parties for marketing purposes, and providing contact information for such affiliates and/or third parties. If you are a California resident and would like a copy of this notice, please submit a written request to the following address: 746 Chapel St, New Haven CT 06510.
+Under California Civil Code sections 1798.83-1798.84, California residents are entitled to ask us for a notice identifying the categories of personal customer information that we share with our affiliates and/or third parties for marketing purposes, and providing contact information for such affiliates and/or third parties. If you are a California resident and would like a copy of this notice, please submit a written request to the following address: 770 Chapel St, New Haven CT 06510.
 
 ## Closing Your Account
 
