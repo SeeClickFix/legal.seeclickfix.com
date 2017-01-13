@@ -29,7 +29,7 @@ SSP as soon as reasonable.  These Terms and Conditions will apply
 throughout the SSP-specified period following the Effective Date and be
 automatically renewed on an annual basis each succeeding year, and shall
 include changes to these Terms and Conditions which may be enacted by
-SeeClickFix alone. 
+SeeClickFix alone.
 Should either party decide not to
 extend the term, such party must notify, in writing, the other party at
 least 90 days prior to the end of the current term.
@@ -53,7 +53,7 @@ embeddable interactive widget for public reporting, alerts on discussing
 non-emergency issues ("the Software").  Users will be able to interact
 with the Software and post various content including words, photos and
 videos.  While the content of users of the Software is governed by
-SeeClickFix's published Terms of Use, SeeClickFix may not be able to
+SeeClickFix's published [Terms of Use](/terms-of-use) and [Privacy Policy](/privacy-policy), SeeClickFix may not be able to
 control the exact nature of this content.  SeeClickFix reserve the right
 to edit User Content, but does not have an obligation to edit the
 content.  Although SeeClickFix may from time to time make enhancements
