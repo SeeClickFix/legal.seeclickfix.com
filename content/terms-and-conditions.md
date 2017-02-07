@@ -16,7 +16,7 @@ title: SeeClickFix Terms and Conditions
 These Terms and Conditions, inclusive of the Scope of Services Proposal
 (“the SSP”) to which they are inextricably linked, will apply as of the
 Effective Date (specified in the SSP) to the customer ("Customer") in
-relation to SeeClickFix Inc, a Delaware Corporation located at 746
+relation to SeeClickFix Inc, a Delaware Corporation located at 770
 Chapel St, New Haven, CT 06510 ("SeeClickFix", and together "the
 Parties"). WHEREAS, the Customer desires that SeeClickFix provide certain
 software services as described herein. WHEREAS, SeeClickFix desires to
