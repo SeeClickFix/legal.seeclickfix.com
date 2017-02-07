@@ -1,5 +1,5 @@
 # Privacy Policy
-**Last Modified: April 4, 2016**
+**Last Modified: February 6, 2017**
 
 SeeClickFix, Inc. and our contractors (**"SeeClickFix"**, **"we"**, **"us"**, or **"our"**) take the private nature of your personal information very seriously. This policy regarding our privacy practices (the **"Privacy Policy"**) describes how we treat the information we collect when you visit and use the website available at SeeClickFix.com (the "Site") and SeeClickFix's other domains, products, services, mobile applications, and content (collectively with the Site, the **"Services"**).
 
