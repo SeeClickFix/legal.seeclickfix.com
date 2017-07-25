@@ -54,11 +54,15 @@ non-emergency issues ("the Software").  Users will be able to interact
 with the Software and post various content including words, photos and
 videos.  While the content of users of the Software is governed by
 SeeClickFix's published [Terms of Use](/terms-of-use) and [Privacy Policy](/privacy-policy), SeeClickFix may not be able to
-control the exact nature of this content.  SeeClickFix reserve the right
+control the exact nature of this content.  SeeClickFix reserves the right
 to edit User Content, but does not have an obligation to edit the
 content.  Although SeeClickFix may from time to time make enhancements
 or bug fixes to the Software, it is under no obligation to make any
 particular modifications, enhancements or bug fixes.
+
+#### 1. Service and
+
+SeeClickFix shall use all reasonable commercial efforts to ensure that SeeClickFix’s Service is available 99.9% of the time in any calendar month (excluding scheduled maintenance).
 
 ### C. Ownership. With the exception of Customer's trademarks and logos,
 SeeClickFix shall be the sole and exclusive owner of any and all
