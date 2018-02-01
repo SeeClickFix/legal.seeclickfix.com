@@ -501,7 +501,7 @@ intellectual property owner's behalf.
 SeeClickFix's Agent for Notice of claims of copyright or other
 intellectual property infringement can be reached as follows:
 
-By email: team@seeclickfix.com or By fax: 877.853.1552
+By email: contact@seeclickfix.com or By fax: 877.853.1552
 
 
 ## 25. GENERAL INFORMATION
@@ -552,7 +552,7 @@ Municipality of York, July 2012.
 ## 26. VIOLATIONS
 
 Please report any violations of the TOS to customer service at
-team@seeclickfix.com.
+contact@seeclickfix.com.
 
 
 
