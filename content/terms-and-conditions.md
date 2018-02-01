@@ -136,7 +136,7 @@ any notice of a change of address, shall be in writing and shall be
 deemed validly given if (i) delivered personally or (ii) sent by express
 delivery service, registered or certified mail, postage prepaid, return
 receipt requested or (iii) sent by email, as follows: If to SeeClickFix:
-SeeClickFix Inc., Attn: Contract Administrator to team@seeclickfix.com,
+SeeClickFix Inc., Attn: Contract Administrator to contact@seeclickfix.com,
 with an email response confirming receipt by SeeClickFix.  If to Customer:
 as addressed in the SSP.  All such notices shall be deemed given on the
 date of actual receipt by the addressee if delivered personally, on the
