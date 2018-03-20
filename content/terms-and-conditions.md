@@ -166,7 +166,7 @@ provision had never been a part of these Terms and Conditions but in a
 manner so as to carry out as nearly as possible the parties’ original
 intent.
 
-7. *Counterparts.* The Contrct may be executed siimultaneously in several counterparts, each of which shall be deemed an original but which together shall constitute one and the same instrument.
+7. *Counterparts.* The Contract may be executed simultaneously in several counterparts, each of which shall be deemed an original but which together shall constitute one and the same instrument.
 
 8. *Entire Contract*. These Terms and Conditions, inclusive of the SSP to which they are
 inextricably linked, constitute the entire agreement between the parties
