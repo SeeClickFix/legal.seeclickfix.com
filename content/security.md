@@ -8,7 +8,11 @@ remain accessible 99.9% of the time.
 ### Reporting A Security Issue
 
 Please contact us at security@seeclickfix.com if you believe you
-have identified a security problem or concern.
+have identified a security problem or concern.  You may send us encrypted or unencrypted emails.
+
+Fingerprint: B345 ECDA AD0D 55A7 EDD3  4F00 2410 6507 3518 AD68
+
+[Public Key](/public-key)
 
 ### Data Centers
 
