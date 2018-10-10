@@ -173,8 +173,7 @@ law;
 11. "stalk" or otherwise harass another; and/or
 
 12. collect or store personal data about other users in connection with the
-prohibited conduct and activities set forth in paragraphs a through m
-above.
+prohibited conduct and activities set forth in paragraphs 1 through 11.
 
 You acknowledge that SeeClickFix may or may not pre-screen Content, but
 that SeeClickFix and its designees shall have the right (but not the
