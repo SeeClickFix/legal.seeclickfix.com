@@ -21,8 +21,8 @@ SeeClickFix Inc. ("SeeClickFix") welcomes you. SeeClickFix provides its
 service to you subject to the following Terms of Service ("TOS"), which
 may be updated by us from time to time without notice to you. You can
 review the most current version of the TOS at any time at on our website
-at http://www.seeclickfix.com. This version was updated on August 27th,
-2013.
+at http://www.seeclickfix.com. This version was updated on October 10th,
+2018.
 
 
 ## 2. DESCRIPTION OF SERVICE
