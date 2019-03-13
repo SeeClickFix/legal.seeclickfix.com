@@ -21,8 +21,8 @@ SeeClickFix Inc. ("SeeClickFix") welcomes you. SeeClickFix provides its
 service to you subject to the following Terms of Service ("TOS"), which
 may be updated by us from time to time without notice to you. You can
 review the most current version of the TOS at any time at on our website
-at http://www.seeclickfix.com. This version was updated on October 10th,
-2018.
+at http://www.seeclickfix.com. This version was updated on March 13th,
+2019.
 
 
 ## 2. DESCRIPTION OF SERVICE
@@ -485,7 +485,7 @@ intellectual property owner's behalf.
 SeeClickFix's Agent for Notice of claims of copyright or other
 intellectual property infringement can be reached as follows:
 
-By email: contact@seeclickfix.com or By fax: 877.853.1552
+By email: contact@seeclickfix.com
 
 
 ## 24. GENERAL INFORMATION
