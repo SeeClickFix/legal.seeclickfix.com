@@ -326,20 +326,7 @@ sole discretion and that SeeClickFix shall not be liable to you or any
 third party for any termination of your account, any associated email
 address, or access to the Service.
 
-
-## 15. DEALINGS WITH ADVERTISERS
-
-Your correspondence or business dealings with, or participation in
-promotions of, advertisers found on or through the Service, including
-payment and delivery of related goods or services, and any other terms,
-conditions, warranties or representations associated with such dealings,
-are solely between you and such advertiser. You agree that SeeClickFix
-shall not be responsible or liable for any loss or damage of any sort
-incurred as the result of any such dealings or as the result of the
-presence of such advertisers on the Service.
-
-
-## 16. LINKS
+## 15. LINKS
 
 The Service may provide, or third parties may provide, links to other
 World Wide Web sites or resources. Because SeeClickFix has no control
@@ -354,7 +341,7 @@ in connection with use of or reliance on any such Content, goods or
 services available on or through any such site or resource.
 
 
-## 17. SEECLICKFIX'S PROPRIETARY RIGHTS
+## 16. SEECLICKFIX'S PROPRIETARY RIGHTS
 
 You acknowledge and agree that the Service and any necessary software
 used in connection with the Service ("Software") contain proprietary and
@@ -382,7 +369,7 @@ through the interface that is provided by SeeClickFix for use in
 accessing the Service.
 
 
-## 18. DISCLAIMER OF WARRANTIES
+## 17. DISCLAIMER OF WARRANTIES
 
 YOU EXPRESSLY UNDERSTAND AND AGREE THAT:
 
@@ -413,7 +400,7 @@ SEECLICKFIX OR THROUGH OR FROM THE SERVICE SHALL CREATE ANY WARRANTY NOT
 EXPRESSLY STATED IN THE TOS.
 
 
-## 19. LIMITATION OF LIABILITY
+## 18. LIMITATION OF LIABILITY
 
 YOU EXPRESSLY UNDERSTAND AND AGREE THAT SEECLICKFIX AND ITS
 SUBSIDIARIES, AFFILIATES, OFFICERS, EMPLOYEES, AGENTS, PARTNERS AND
@@ -431,7 +418,7 @@ OF ANY THIRD PARTY ON THE SERVICE; OR (v) ANY OTHER MATTER RELATING TO
 THE SERVICE.
 
 
-## 20. EXCLUSIONS AND LIMITATIONS
+## 19. EXCLUSIONS AND LIMITATIONS
 
 SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF CERTAIN WARRANTIES OR
 THE LIMITATION OR EXCLUSION OF LIABILITY FOR INCIDENTAL OR CONSEQUENTIAL
@@ -439,13 +426,13 @@ DAMAGES. ACCORDINGLY, SOME OF THE ABOVE LIMITATIONS OF SECTIONS 19 AND
 20 MAY NOT APPLY TO YOU.
 
 
-## 21. NO THIRD-PARTY BENEFICIARIES
+## 20. NO THIRD-PARTY BENEFICIARIES
 
 You agree that, except as otherwise expressly provided in this TOS,
 there shall be no third-party beneficiaries to this agreement.
 
 
-## 22. NOTICE
+## 21. NOTICE
 
 SeeClickFix may provide you with notices, including those regarding
 changes to the TOS, including by but not limited to email, regular mail,
@@ -453,7 +440,7 @@ postings on the Service, or other reasonable means now known or
 hereinafter developed.
 
 
-## 23. TRADEMARK INFORMATION
+## 22. TRADEMARK INFORMATION
 
 The SeeClickFix, SeeClickFix logo, trademarks and service marks and
 other SeeClickFix logos and product and service names are trademarks of
@@ -462,7 +449,7 @@ permission, you agree not to display or use in any manner the
 SeeClickFix Marks.
 
 
-## 24. NOTICE AND PROCEDURE FOR MAKING CLAIMS OF COPYRIGHT OR INTELLECTUAL
+## 23. NOTICE AND PROCEDURE FOR MAKING CLAIMS OF COPYRIGHT OR INTELLECTUAL
 
 PROPERTY INFRINGEMENT
 SeeClickFix respects the intellectual property of others, and we ask our
@@ -501,7 +488,7 @@ intellectual property infringement can be reached as follows:
 By email: contact@seeclickfix.com or By fax: 877.853.1552
 
 
-## 25. GENERAL INFORMATION
+## 24. GENERAL INFORMATION
 
 Entire Agreement. The TOS constitutes the entire agreement between you
 and SeeClickFix and governs your use of the Service, superseding any
@@ -546,7 +533,7 @@ Additional Data Sources. York Region data provided by the Regional
 Municipality of York, July 2012.
 
 
-## 26. VIOLATIONS
+## 25. VIOLATIONS
 
 Please report any violations of the TOS to customer service at
 contact@seeclickfix.com.
