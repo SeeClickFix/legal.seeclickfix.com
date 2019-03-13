@@ -29,9 +29,7 @@ at http://www.seeclickfix.com. This version was updated on October 10th,
 
 SeeClickFix provides users with access to public issue reporting,
 discussing and management which may be accessed through various media or
-devices (the "Service"). You also understand and agree that the Service
-may include advertisements and that these advertisements are necessary
-for SeeClickFix to provide the Service. You also understand and agree
+devices (the "Service"). You also understand and agree
 that the Service may include certain communications from SeeClickFix,
 such as service announcements, administrative messages and the
 SeeClickFix Newsletter, and that these communications are considered
@@ -44,8 +42,8 @@ mis-delivery or failure to store any user communications or
 personalization settings. You are responsible for obtaining access to
 the Service, and that access may involve third-party fees (such as
 Internet service provider or airtime charges). You are responsible for
-those fees, including those fees associated with the display or delivery
-of advertisements. In addition, you must provide and are responsible for
+those fees.
+In addition, you must provide and are responsible for
 all equipment necessary to access the Service.
 
 
@@ -362,11 +360,11 @@ You acknowledge and agree that the Service and any necessary software
 used in connection with the Service ("Software") contain proprietary and
 confidential information that is protected by applicable intellectual
 property and other laws. You further acknowledge and agree that Content
-contained in sponsor advertisements or information presented to you
-through the Service or by advertisers is protected by copyrights,
+contained in information presented to you
+through the Service may be protected by copyrights,
 trademarks, service marks, patents or other proprietary rights and laws.
 Except as expressly permitted by applicable law or authorized by
-SeeClickFix or advertisers, you agree not to modify, rent, lease, loan,
+SeeClickFix, you agree not to modify, rent, lease, loan,
 sell, distribute or create derivative works based on the Service or the
 Software, in whole or in part.
 
