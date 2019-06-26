@@ -60,11 +60,11 @@ content.  Although SeeClickFix may from time to time make enhancements
 or bug fixes to the Software, it is under no obligation to make any
 particular modifications, enhancements or bug fixes.
 
-#### 1. Service and
+#### 1. Service Level Objective
 
 SeeClickFix shall use all reasonable commercial efforts to ensure that SeeClickFix’s Service is available 99.9% of the time in any calendar month (excluding scheduled maintenance).
 
-### C. Ownership. With the exception of Customer's trademarks and logos,
+### C. Ownership. With the exception of Customer's trademarks and logos
 SeeClickFix shall be the sole and exclusive owner of any and all
 SeeClickFix Materials, including the Software and all Intellectual
 Property Rights in and to them and their derivative works and
@@ -84,12 +84,12 @@ EXPRESS OR IMPLIED, AT LAW OR IN EQUITY (INCLUDING, WITHOUT LIMITATION,
 ANY WARRANTY OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE
 OR NONINFRINGEMENT) TO CLIENT, OR TO ANY OTHER PERSON, WITH RESPECT TO
 THE SERVICES, SEECLICKFIX MATERIALS, OR ANY OTHER SERVICES OR MATERIALS
-PROVIDED HEREUNDER.  (I) NEITHER SEECLICKFIX NOR THE CITY SHALL HAVE ANY
+PROVIDED HEREUNDER.  (I) NEITHER SEECLICKFIX NOR THE CUSTOMER SHALL HAVE ANY
 LIABILITY TO THE OTHER PARTY FOR ANY INDIRECT, SPECIAL, OR CONSEQUENTIAL
 DAMAGES, UNDER ANY THEORY OF LIABILITY (WHETHER LEGAL OR EQUITABLE), AND
 (II) IN NO EVENT SHALL THE AGGREGATE LIABILITY OF EITHER PARTY TO THE
 OTHER PARTY UNDER THESE TERMS AND CONDITIONS EXCEED THE TOTAL AMOUNT OF
-FEES RECEIVED BY SEECLICKFIX FROM THE CITY FOR THE THREE (3) MONTHS
+FEES RECEIVED BY SEECLICKFIX FROM THE CUSTOMER FOR THE THREE (3) MONTHS
 IMMEDIATELY PRECEDING THE EVENT GIVING RISE TO SUCH LIABILITY OR $5,000
 WHICHEVER IS LESS.
 
