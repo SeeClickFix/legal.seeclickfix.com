@@ -11,7 +11,7 @@ title: CivicPlus Terms and Conditions, SeeClickFix Services
 	</div>
 </div>
 
-# Civic Plus Terms and Conditions, SeeClickFix Services
+# CivicPlus Terms and Conditions, SeeClickFix Services
 
 These Terms and Conditions, inclusive of the Scope of Work (&quot;the SOW&quot;) to which they are inextricably linked (collectively
 referred to as this &quot;Agreement&quot;), will apply as of the Effective Date (the date of signature specified in the SOW) to the
