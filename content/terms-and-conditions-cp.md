@@ -118,10 +118,14 @@ SOW. WHEREAS, CivicPlus desires to deliver such software services under these te
 
 * **F. Customer&#39;s Responsibilities**
 
-    1. Customer agrees that it is solely responsible for any solicitation, collection, storage or other use of end-users&#39;
-    personal data on any of the Services provided by CivicPlus. Customer further agrees that CivicPlus has no responsibility for the
-    use or storage of end-users&#39; personal data in connection with the Services or the consequences of the solicitation,
-    collection, storage, or other use by the Customer or by any third party of personal data.
+    1. CivicPlus will provide the Services and manage the Customer data and content in compliance with the [SeeClickFix Data
+    Retention Policy](../docs/data-retention-policy.pdf) and [Terms of Use](../terms-of-use/). Customer understands and agrees that
+    it has sole discretion over the solicitation, collection, storage or other use of end-users’ personally identifiable
+    information, including sharing with third parties, on any of the Services provided by CivicPlus and CivicPlus discourages the
+    solicitation and collection of any end user personally identifiable information. Customer further understands and agrees that
+    Customer is solely responsible for the use or storage of end-users’ personally identifiable information in connection with the
+    Services or the consequences of the solicitation, collection, storage, or other use by the Customer or by any third party of
+    personally identifiable information.
 
     2. To the extent it may apply to any of the Services or deliverables of the SOW, user logins are for designated
     individuals chosen by Customer (&quot;Users&quot;) and cannot be shared or used by more than one User. Customer will be
