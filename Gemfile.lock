@@ -10,7 +10,7 @@ GEM
       cri (~> 2.3)
     nokogiri (1.10.8)
       mini_portile2 (~> 2.4.0)
-    rack (2.0.8)
+    rack (2.2.3)
     rake (13.0.0)
     yajl-ruby (1.4.1)
 
