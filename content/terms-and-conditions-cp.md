@@ -26,7 +26,7 @@ SOW. WHEREAS, CivicPlus desires to deliver such software services under these te
     reasonable. These Terms and Conditions will apply throughout the SOW-specified period following the Effective Date and be
     automatically renewed on an annual basis each succeeding year (the &quot;Term&quot;), and shall include changes to these Terms and
     Conditions which may be enacted by CivicPlus alone. Should either Party decide not to extend the term, such Party must notify, in
-    writing, the other Party at least 90 days prior to the end of the current
+    writing, the other Party at least 90 days prior to the end of the current term.
 
     1. Termination for Cause. If either Party fails to perform any of its material obligations under these Terms and Conditions and does
     not cure such failures within thirty (30) days after being given written notice specifying the nature of the failure, then the
