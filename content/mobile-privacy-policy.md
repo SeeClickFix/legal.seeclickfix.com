@@ -1,3 +1,7 @@
+---
+title: SeeClickFix Terms of Use
+---
+
 # Mobile App Privacy Policy Information
 
 This page provides information about the applicable privacy policy
