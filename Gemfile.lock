@@ -4,7 +4,7 @@ GEM
     adsf (1.4.2)
       rack (>= 1.0.0, < 3.0.0)
     cri (2.15.9)
-    kramdown (2.3.0)
+    kramdown (2.3.1)
       rexml
     mini_portile2 (2.4.0)
     nanoc (3.7.5)
