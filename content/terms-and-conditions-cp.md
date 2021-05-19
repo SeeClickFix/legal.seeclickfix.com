@@ -7,7 +7,7 @@ title: CivicPlus Terms and Conditions, SeeClickFix Services
 	<br>
 	<br>
 	<div style="text-align: center">
-		<div id="google_translate_element"></div>		
+		<div id="google_translate_element"></div>
 	</div>
 </div>
 
@@ -15,7 +15,7 @@ title: CivicPlus Terms and Conditions, SeeClickFix Services
 
 These Terms and Conditions, inclusive of the Scope of Work (&quot;the SOW&quot;) to which they are inextricably linked (collectively
 referred to as this &quot;Agreement&quot;), will apply as of the Effective Date (the date of signature specified in the SOW) to the
-customer signing the SOW (&quot;Customer&quot;) in relation to  CivicPlus, LLC a Kansas limited liability company, located at 302 S
+customer signing the SOW (&quot;Customer&quot;) in relation to CivicPlus, LLC a Kansas limited liability company, located at 302 S
 4th Street, Manhattan, KS 66502 (&quot;CivicPlus&quot;) (individually referred to as &quot;Party&quot; and collectively the
 &quot;Parties&quot;). WHEREAS, the Customer desires that CivicPlus provide certain software services as described in the
 SOW. WHEREAS, CivicPlus desires to deliver such software services under these terms and conditions.
@@ -83,7 +83,7 @@ SOW. WHEREAS, CivicPlus desires to deliver such software services under these te
     applied under U.S.C. Title 17 and Title 35, respectively) by whomever developed or created them. No ownership of any CivicPlus
     Materials including the Software or the Intellectual Property Rights in and to them shall be transferred to the Customer.
     &quot;Intellectual Property Rights&quot; shall mean any and all proprietary rights or moral rights in any trademarks, copyrights,
-    trade secrets, patents and patent applications, renewals, extensions, continuations,  divisions or reissues, in whole or in part,
+    trade secrets, patents and patent applications, renewals, extensions, continuations, divisions or reissues, in whole or in part,
     now or hereafter in force, and any foreign counterparts.
 
     2. Customer shall not (i) license, sublicense, sell, resell, reproduce, transfer, assign, distribute or otherwise commercially
@@ -113,13 +113,13 @@ SOW. WHEREAS, CivicPlus desires to deliver such software services under these te
     licensor or other third party service provider whose facilities or services are used in furnishing any portion of the Services
     received by the Customer.
 
-        CivicPlus will not be liable for any failure of performance that is caused by or the result of any act or omission by Customer or
-        any entity employed/contracted on the Customer&#39;s behalf.
+    CivicPlus will not be liable for any failure of performance that is caused by or the result of any act or omission by Customer or
+    any entity employed/contracted on the Customer&#39;s behalf.
 
 * **F. Customer&#39;s Responsibilities**
 
-    1. CivicPlus will provide the Services and manage the Customer data and content in compliance with the [SeeClickFix Data
-    Retention Policy](../docs/data-retention-policy.pdf) and [Terms of Use](../terms-of-use/). Customer understands and agrees that
+    1. CivicPlus will provide the Services and manage the Customer data and content in compliance with the
+    [SeeClickFix Data Retention Policy](../docs/data-retention-policy.pdf) and [Terms of Use](../terms-of-use/). Customer understands and agrees that
     it has sole discretion over the solicitation, collection, storage or other use of end-users’ personally identifiable
     information, including sharing with third parties, on any of the Services provided by CivicPlus and CivicPlus discourages the
     solicitation and collection of any end user personally identifiable information. Customer further understands and agrees that
@@ -142,11 +142,12 @@ SOW. WHEREAS, CivicPlus desires to deliver such software services under these te
 
 * **G. Arbitration, Governing Law and Venue**
 
+
     1. The Parties agree that except for the right of either party to seek declaratory, injunctive or other equitable relief, or for
     claims related to a Party&#39;s Intellectual Property Rights, any dispute or controversy arising out of or in connection with these
     Terms and Conditions shall be referred to arbitration for final and binding resolution. Either Party to these Terms and Conditions
-    may initiate arbitration of the  dispute by the filing of an application for resolution by one arbitrator appointed by and in
-    accordance with the rules of the American  Arbitration Association. The arbitration shall be conducted in the city and state in
+    may initiate arbitration of the dispute by the filing of an application for resolution by one arbitrator appointed by and in
+    accordance with the rules of the American Arbitration Association. The arbitration shall be conducted in the city and state in
     which the non-filing Party is located. The award in the arbitration shall be final, binding and non-appealable. The award may be
     entered as a final, non-appealable judgment in any court having jurisdiction. Each Party specifically agrees and acknowledges that
     this Section G is a material term of these Terms and Conditions and acknowledges that it would not enter into these Terms and
@@ -160,7 +161,7 @@ SOW. WHEREAS, CivicPlus desires to deliver such software services under these te
 
     1. Independent Contractor Relationship. CivicPlus is acting as an independent contractor under these Terms and Conditions and
     nothing in these Terms and Conditions shall be deemed or construed to create the relationship of partnership, joint venture or
-    employer-employee between the Parties. Neither Party has, and shall not hold itself out as having, any authority to enter into any
+    employer- employee between the Parties. Neither Party has, and shall not hold itself out as having, any authority to enter into any
     contract or create any obligation or liability on behalf of, in the name of, or binding upon the other Party.
 
     1. Force Majeure. No Party shall have any liability to the other hereunder by reason of delay or failure to perform any obligation
@@ -171,10 +172,10 @@ SOW. WHEREAS, CivicPlus desires to deliver such software services under these te
     1. Any notice to be given hereunder to any other Party, including any notice of a change of address, shall be in writing and shall
     be deemed validly given if (i) delivered personally or (ii) sent by express delivery service, registered or certified mail, postage
     prepaid, return receipt requested or (iii) sent by email, as follows: If to CivicPlus: CivicPlus, LLC, Attn: Contract Administrator
-    to  [accounting@civicplus.com,](mailto:contact@seeclickfix.com)with an email response confirming receipt by CivicPlus. If to
+    to [accounting@civicplus.com,](mailto:accounting@civicplus.com) with an email response confirming receipt by CivicPlus. If to
     Customer: as addressed in the SOW. All such notices shall be deemed given on the date of actual receipt by the addressee if
     delivered personally, on the date of deposit with the express delivery service or the postal authorities if sent in either such
-    manner, on the date the facsimile or email is sent if sent in such manner, and  on the date of actual receipt by the addressee if
+    manner, on the date the facsimile or email is sent if sent in such manner, and on the date of actual receipt by the addressee if
     delivered in any other manner.
 
     1. The Parties agree that the Parties may reference the other Party as a client or vendor, including using the Customer name,
@@ -207,6 +208,7 @@ SOW. WHEREAS, CivicPlus desires to deliver such software services under these te
     the Agreement and the performance of such Party&#39;s obligations hereunder have been duly authorized and that the Agreement is a
     valid and legal agreement binding on such Party and enforceable in accordance with its terms.
 
+    © 2021 SeeClickFix All rights reserved.
 <script type="text/javascript">
 function googleTranslateElementInit() {
   new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'es,fr,it,ms,pl,pt', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
