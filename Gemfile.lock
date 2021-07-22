@@ -1,19 +1,21 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    adsf (1.4.2)
+    adsf (1.4.6)
       rack (>= 1.0.0, < 3.0.0)
-    cri (2.15.9)
-    kramdown (2.3.0)
+    cri (2.15.11)
+    kramdown (2.3.1)
       rexml
-    mini_portile2 (2.4.0)
+    mini_portile2 (2.5.3)
     nanoc (3.7.5)
       cri (~> 2.3)
-    nokogiri (1.10.8)
-      mini_portile2 (~> 2.4.0)
+    nokogiri (1.11.7)
+      mini_portile2 (~> 2.5.0)
+      racc (~> 1.4)
+    racc (1.5.2)
     rack (2.2.3)
-    rake (13.0.0)
-    rexml (3.2.4)
+    rake (13.0.6)
+    rexml (3.2.5)
     yajl-ruby (1.4.1)
 
 PLATFORMS
@@ -28,4 +30,4 @@ DEPENDENCIES
   yajl-ruby
 
 BUNDLED WITH
-   1.16.2
+   1.17.3
