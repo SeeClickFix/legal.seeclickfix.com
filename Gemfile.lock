@@ -16,7 +16,7 @@ GEM
     rack (2.2.3)
     rake (13.0.6)
     rexml (3.2.5)
-    yajl-ruby (1.4.1)
+    yajl-ruby (1.4.3)
 
 PLATFORMS
   ruby
