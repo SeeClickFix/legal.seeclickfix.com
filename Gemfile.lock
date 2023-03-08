@@ -13,7 +13,7 @@ GEM
       mini_portile2 (~> 2.5.0)
       racc (~> 1.4)
     racc (1.5.2)
-    rack (2.2.3)
+    rack (2.2.6.3)
     rake (13.0.6)
     rexml (3.2.5)
     yajl-ruby (1.4.1)
