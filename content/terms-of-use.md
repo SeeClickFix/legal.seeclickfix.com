@@ -72,7 +72,7 @@ Content (as defined in Section 6 below) are appropriate for your child.
 ## 4. SEECLICKFIX PRIVACY POLICY
 
 Registration Data and certain other information about you is subject to
-our [Privacy Policy](/privacy-policy). We will not share or sell your email with another
+our [Privacy Policy](https://www.civicplus.com/privacy-policy). We will not share or sell your email with another
 company without your permission. You understand that through your use of
 the Service you consent to the collection and use (as set forth in this
 Privacy Policy) of this information, including the transfer of this
